@@ -1,2 +1,2 @@
 # codeSampleCX
-Some classes for sample code
+Some classes for sample code sharing
